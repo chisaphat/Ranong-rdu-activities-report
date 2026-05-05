@@ -1,16 +1,13 @@
 {
   "name": "ranong-rdu-dashboard",
   "version": "1.0.0",
-  "description": "RDU Dashboard Ranong Province",
-  "main": "src/index.js",
+  "private": true,
   "dependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "react-scripts": "^5.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
     "recharts": "^2.12.0",
-    "lucide-react": "^0.344.0",
-    "clsx": "^2.1.0",
-    "tailwind-merge": "^2.2.1"
+    "lucide-react": "^0.344.0"
   },
   "scripts": {
     "start": "react-scripts start",
